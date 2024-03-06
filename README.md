@@ -1,5 +1,6 @@
 ### Open Source Contribution
 
+* [sphinx-doc](https://github.com/sphinx-doc/sphinx/commits?author=RexYuan)
 * [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core/commits?author=RexYuan)
 * [pysathq/pysat](https://github.com/pysathq/pysat/commits?author=RexYuan)
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/commits?author=RexYuan)
