@@ -1,5 +1,6 @@
 ### Open Source Contribution
 
+* [Difegue/LANraragi](https://github.com/Difegue/LANraragi/commits?author=RexYuan)
 * [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx/commits?author=RexYuan)
 * [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core/commits?author=RexYuan)
 * [pysathq/pysat](https://github.com/pysathq/pysat/commits?author=RexYuan)
